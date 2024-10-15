@@ -33,3 +33,12 @@ Below is a 3d visualization of the density plot.
 <div align="center">
 <img width="" src="expval_z_t.gif" /><br>
 </div>
+
+## Exercise 37
+
+Below is animation for individual values of $g$. Y-axis denotes $\langle Z \rangle(t)$ and X-axis denotes time.
+
+<div align="center">
+<img width="" src="sine_wave.gif" /><br>
+</div>
+
